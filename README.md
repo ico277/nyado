@@ -1,0 +1,2 @@
+# nyado
+Sudo replacement nya~!
